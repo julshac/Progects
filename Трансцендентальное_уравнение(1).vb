@@ -1,4 +1,4 @@
-﻿'Программист Бобров А.В.
+﻿
 Imports System.Console
 Imports System.Math
 Module Module2
