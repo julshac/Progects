@@ -27,7 +27,7 @@ Module Module3
             interval.Stop()
             Delta2 = interval.ElapsedTicks
 
-            streamCsv.WriteLine("{0};{1};{2}", FibIter, Delta1, Delta2) 'пишим строку 2
+        streamCsv.WriteLine("{0};{1};{2}", FibIter, Delta1, Delta2) 'пишем строку 2
 
             Num += 1
         Next
